@@ -2,32 +2,7 @@
 
 This project documents my journey of **solving vulnerable machines** and generating professional **penetration testing and vulnerability assessment reports** for each machine. The main goal is to build structured reporting skills similar to real-world security assessments.
 
-## 📁 Project Structure
-
-```
-Capstone/
-│
-├── Kioptrix-1/
-│   ├── kioptrix report.docx
-│   ├── Nessus_Report.pdf
-│   ├── Nessus_Report.csv
-│
-├── Metasploitable 2 /
-│   ├── Penetration_Test_Report.docx
-│   ├── Nessus_Report.pdf
-│   ├── Nessus_Report.csv
-│
-├── Metasploitable 2 /
-│   ├── Penetration_Test_Report.docx
-│   ├── Nessus_Report.pdf
-│   ├── Nessus_Report.csv
-|
-└── README.md
-```
-
-- **Penetration_Test_Report.docx** → Manual exploitation, impact, and remediation details.  
-- **Nessus_Report.pdf / .csv** → Vulnerability Assessment reports generated using Nessus.  
-- One folder per vulnerable machine with three reports for easy organization.
+---
 
 ## 📝 List of Machines Solved / In Progress
 
