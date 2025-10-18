@@ -5,18 +5,23 @@ This project documents my journey of **solving vulnerable machines** and generat
 ## 📁 Project Structure
 
 ```
-vuln-machines/
+Capstone/
 │
-├── Kioptrix/
+├── Kioptrix-1/
+│   ├── kioptrix report.docx
+│   ├── Nessus_Report.pdf
+│   ├── Nessus_Report.csv
+│
+├── Metasploitable 2 /
 │   ├── Penetration_Test_Report.docx
 │   ├── Nessus_Report.pdf
 │   ├── Nessus_Report.csv
 │
-├── [Machine-Name]/
+├── Metasploitable 2 /
 │   ├── Penetration_Test_Report.docx
 │   ├── Nessus_Report.pdf
 │   ├── Nessus_Report.csv
-│
+|
 └── README.md
 ```
 
