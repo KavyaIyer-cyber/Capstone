@@ -9,7 +9,7 @@ This project documents my journey of **solving vulnerable machines** and generat
 | # | Machine Name        | Vulnerability / Focus Area        | Status       |
 |---|----------------------|-----------------------------------|-------------|
 | 1 | Kioptrix            | Samba 2.2.8a RCE (CVE-2003-0201)   | ✅ Completed |
-| 2 | Metasploitable2     | Multiple Services Exploitation    | ⏳ In Progress |
+| 2 | Metasploitable2     | Multiple Services Exploitation    |  Completed |
 | 3 | Mr. Robot           | Web Exploitation / Priv Esc       | ⏳ In Progress |
 | 4 | Basic Pentesting 1  | SMB & Web Enumeration             | ⏳ In Progress |
 | 5 | Other VulnHub Labs  | Mixed                            | 🔜 Planned   |
